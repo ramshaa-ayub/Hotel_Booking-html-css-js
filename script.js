@@ -61,3 +61,16 @@ ScrollReveal().reveal(".room_card", {
     ...scrollRevealOption,
     interval: 600,
 })
+
+// service animation
+ScrollReveal().reveal(".service_list li", {
+    ...scrollRevealOption,
+    interval: 500,
+    origin: "right"
+
+})
+
+// footer
+
+document.getElementById("year").textContent = new Date().getFullYear();
+
