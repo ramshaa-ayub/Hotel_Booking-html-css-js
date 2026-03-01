@@ -1,4 +1,4 @@
-# 🏨 The Royal Hotel Website
+#  The Royal Hotel Booking Website
 
 ![Preview](assets/preview.png)
 
